@@ -1,0 +1,49 @@
+video,stroke_id,peak_frame,start_frame,end_frame,peak_vel,stroke_type,direction,technique
+back_1,0,71,41,86,0.080799346,,,
+back_1,1,178,148,193,0.242996066,forehand,inside out,good
+back_1,2,311,281,326,0.140007348,forehand,centre,good
+back_1,3,377,347,392,0.084680822,,,
+back_1,4,801,771,816,0.102380314,backhand,inside out,good
+back_1,5,1007,977,1022,0.20425759,forehand,centre,good
+back_1,6,1383,1353,1398,0.138363914,forehand,inside out,good
+back_1,7,1498,1468,1513,0.10444108,backhand,centre,good
+back_1,8,1561,1531,1576,0.146232884,,,
+back_1,9,1726,1696,1741,0.083379254,forehand,centre,good
+back_1,10,1798,1768,1813,0.112199114,,,
+back_1,11,1930,1900,1945,0.086820331,forehand,centre,bad
+back_1,12,2051,2021,2066,0.098013071,backhand,cross court,bad
+back_1,13,2260,2230,2275,0.836470229,,,
+back_2,0,69,39,84,0.065882518,forehand,inside out,perfect
+back_2,1,245,215,260,0.069747138,backhand,inside out,perfect
+back_2,2,381,351,396,0.081162173,forehand,down the line,bad
+back_2,3,584,554,599,0.062249435,forehand,centre,good
+back_2,4,841,811,856,0.073939373,,,
+back_2,5,950,920,965,0.125340289,forehand,centre,good
+back_2,6,1101,1071,1116,0.188723235,forehand,cross court,perfect
+back_2,7,1253,1223,1268,0.081623764,forehand,cross court,bad
+back_2,8,1438,1408,1453,0.064316566,forehand,inside out,good
+back_2,9,1819,1789,1834,0.061680135,forehand,down the line,bad
+front,0,318,288,333,0.074200311,backhand,cross court,perfect
+front,1,549,519,564,0.074033091,backhand,centre,good
+front,2,924,894,939,0.079125545,,,
+front,3,984,954,999,0.119199943,forehand,centre,bad
+front,4,1057,1027,1072,0.083813087,,,
+front,5,1133,1103,1148,0.08007673,forehand,centre,good
+front,6,1270,1240,1285,0.077532193,backhand,centre,good
+front,7,1534,1504,1549,0.068397077,forehand,centre,good
+front,8,1642,1612,1657,0.084922613,,,
+front,9,1793,1763,1808,0.081871525,forehand,down the line,bad
+front,10,1854,1824,1869,0.09334378,,,
+front,11,2313,2283,2328,0.077556367,,,
+front,12,2382,2352,2397,0.062611183,forehand,cross court,good
+front,13,2545,2515,2560,0.075304697,,,
+front,14,2667,2637,2682,0.075329589,,,
+side,0,33,3,48,0.316662019,,,
+side,1,94,64,109,0.133733753,forehand,centre,good
+side,2,160,130,175,0.054126302,,,
+side,3,333,303,348,0.072296214,forehand,down the line,good
+side,4,419,389,434,0.063244089,forehand,cross court,good
+side,5,505,475,520,0.05851806,forehand,cross court,good
+side,6,644,614,659,0.058018581,forehand,cross court,good
+side,7,754,724,769,0.097072615,backhand,centre,good
+side,8,847,817,862,0.076849171,forehand,centre,good
